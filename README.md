@@ -1,8 +1,8 @@
-# Global Substitution or `.gsub()`
+# Global Substitution
 
-## .gsub()
+## Intro
 
-The `.gsub` method is a handy ruby tool that allows you to `globally substitute` one or more words, or letter for another. Let's take a look at how that works.
+Abbreviated to `.gsub()`, this method is a handy ruby tool that allows you to `globally substitute` one or more words, or character for another. Let's take a look at how that works.
 
 We have a fact about a bug assigned to a variable `wrong_fact`:
 
