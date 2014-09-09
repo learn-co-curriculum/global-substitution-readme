@@ -18,7 +18,7 @@ right_fact = wrong_fact.gsub("Ladybugs", "Butterflies")
 
 The `return value` (aka, what this action produces when it's called) will be "Butterflies can taste with their feet." Then, if we type `right_fact` into our console, we'll see the fact correctly printed.
 
-## Chaining `.gsub()`s
+## Chaining
 
 What if you have a sentence that you want to substitute more than one word in? We can do that by calling `.gsub` more than once on the same line, through a process called `method chaining`. Take a look:
 
