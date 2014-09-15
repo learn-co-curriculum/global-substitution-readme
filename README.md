@@ -25,6 +25,10 @@ But wait, that's not a fact about ladybugs, but butterflies! Let's swap out the 
 
 ```ruby
 right_fact = wrong_fact.gsub("Ladybugs", "Butterflies")
+
+puts right_fact
+# Butterflies can taste with their feet.
+# => nil
 ```
 
 The `return value` (aka, what this action produces when it's called) will be "Butterflies can taste with their feet." Then, if we type `right_fact` into our console, we'll see the fact correctly printed.
@@ -37,4 +41,7 @@ What if you have a sentence that you want to substitute more than one word in? W
 wrong_fact = "Cats fail to recover about 50 percent of the nuts they bury."
 true_fact = wrong_fact.gsub("Cats", "Squirrels").gsub("50", "74")
 
+puts true_fact
+# "Squirrels fail to recover about 74 percent of the nuts they bury."
+# => nil
 ```
