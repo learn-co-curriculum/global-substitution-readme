@@ -37,3 +37,5 @@ puts true_fact
 # "Squirrels fail to recover about 74 percent of the nuts they bury."
 # => nil
 ```
+
+<a href='https://learn.co/lessons/global-substitution-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
