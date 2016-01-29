@@ -38,4 +38,4 @@ puts true_fact
 # => nil
 ```
 
-<a href='https://learn.co/lessons/global-substitution-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/global-substitution-readme' title='Global Substitution'>Global Substitution</a> on Learn.co and start learning to code for free.</p>
